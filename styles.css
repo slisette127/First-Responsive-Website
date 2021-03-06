@@ -16,6 +16,7 @@ body {
     height: 100%;
     text-align: center;
     font-size: 50px;
+   
 }
 
 .section2 {
@@ -26,12 +27,45 @@ body {
    padding-right: 50px;
    padding-bottom: 50px; 
    font-size: large;
-
 }
+
 .rectangle2 {
     height: 30px;
     width: 180px;
     background-color: rgb(51,168,221);
+    margin-left: 50px;
+}
+
+.section3 {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-left: 80px;
+    padding-right: 50px;
+    padding-bottom: 50px; 
+    font-size: large;
+}
+
+.rectangle3 {
+    height: 30px;
+    width: 180px;
+    background-color: rgb(244,103,49);
+    margin-left: 50px;
+}
+
+.section4 {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-left: 80px;
+    padding-right: 50px;
+    padding-bottom: 50px; 
+    font-size: large;
+}
+.rectangle4 {
+    height: 30px;
+    width: 180px;
+    background-color: rgb(43,205,192);
     margin-left: 50px;
 }
 
@@ -41,5 +75,4 @@ h1  {
     margin-inline-start: 10px;
     margin-inline-end: 0px;
     font-weight: bold;
-}
 }
