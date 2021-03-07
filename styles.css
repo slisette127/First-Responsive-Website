@@ -35,7 +35,7 @@ body {
     height: 30px;
     width: 180px;
     background-color: rgb(51,168,221);
-    margin-left: 50px;
+    margin: 50px auto auto auto;
 }
 
 .section3 {
@@ -52,7 +52,7 @@ body {
     height: 30px;
     width: 180px;
     background-color: rgb(244,103,49);
-    margin-left: 50px;
+    margin: 50px auto auto auto;
 }
 
 .section4 {
@@ -68,7 +68,7 @@ body {
     height: 30px;
     width: 180px;
     background-color: rgb(43,205,192);
-    margin-left: 50px;
+    margin: 50px auto auto auto;
 }
 
 h1  {
@@ -85,7 +85,14 @@ h1  {
         flex-direction: column;
         width:100%; }
     .header1 {
-        background-color: red;
-    }
-    }
-
+        background-color: rgb(51,168,221); }
+    .section2 {
+        color: black;
+        background-color: rgb(247,245,246);}
+    .section3 {
+        color: black;
+        background-color: rgb(247,245,246);}
+    .section4 {
+        color: black;
+        background-color: rgb(247,245,246);}
+    }   
